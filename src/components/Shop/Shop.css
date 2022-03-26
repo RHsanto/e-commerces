@@ -1,0 +1,28 @@
+.shope-container{
+  display: grid;
+  grid-template-columns: 3fr  1fr;
+}
+
+.product-container{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 50px;
+  margin: 50px;
+}
+
+.search-container{
+  background-color: #222222 ;
+  padding: 20px;
+  
+}
+
+#search{
+  width: 1200px;
+  padding: 15px;
+  margin-left: 100px;
+  margin-right: 10px;
+}
+.search-container span{
+  color: aliceblue;
+  font-size: 25px;
+}

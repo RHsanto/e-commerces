@@ -1,0 +1,34 @@
+
+.cart{
+margin: 50px;
+}
+.cart-info{
+  text-align: center;
+}
+.pirce-list{
+  padding: 10px;
+}
+
+.pirce-list p{
+  border-bottom: 1px solid;
+  padding: 5px; 
+}
+
+.pirce-list h3{
+  color: brown;
+}
+.span1{
+  margin-left: 190px;
+}
+.span2{
+  margin-left: 80px;
+}
+.span3{
+  margin-left: 120px;
+}
+.span4{
+  margin-left: 140px;
+}
+.span5{
+  margin-left: 140px;
+}
